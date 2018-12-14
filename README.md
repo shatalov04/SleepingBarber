@@ -1,9 +1,9 @@
 # Async/await Sleeping Barber Problem realization
 
-###More about problem:
-[Sleeping Barber](https://en.wikipedia.org/wiki/Sleeping_barber_problem"link title")
+### More about problem:
+[Sleeping Barber](https://en.wikipedia.org/wiki/Sleeping_barber_problem "link title")
 
-###Additional features:
+### Additional features:
 
 Barber cutting and walking time is random and depends on the range of values:
 
